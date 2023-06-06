@@ -1,0 +1,2 @@
+This is local repositoty, i.e working directory
+
